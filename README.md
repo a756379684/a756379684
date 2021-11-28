@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am a Ctfer,a Web doge,a student.
+
+### profile
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a756379684)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=a756379684)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **a756379684/a756379684** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
