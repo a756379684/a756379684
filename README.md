@@ -2,11 +2,16 @@
 
 I am a Ctfer,a Web doge,a student.
 
-### profile
+
+### about me 
+
+Github:https://github.com/a756379684
+
+Blog:https://www.redmango.top/
+
+Mail:756379684@qq.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a756379684)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=a756379684)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
